@@ -1,0 +1,2 @@
+# msa
+Muestreo simple aleatorio
